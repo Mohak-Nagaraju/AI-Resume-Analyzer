@@ -1,6 +1,6 @@
 # JobFit AI - Resume Analyzer
 
-JobFit AI is a Spring Boot application that uses Google's Gemini AI to analyze resumes against job descriptions. The application extracts text from PDF resumes, then uses AI to provide insights and match scores to help job seekers improve their applications.
+JobFit AI is a Spring Boot application that uses AI to analyze resumes against job descriptions. The application extracts text from PDF resumes, then uses AI to provide insights and match scores to help job seekers improve their applications.
 
 ## Features
 
